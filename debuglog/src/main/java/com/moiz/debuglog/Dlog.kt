@@ -17,5 +17,11 @@ class Dlog {
                 Log.d(tag, message)
             }
         }
+
+        fun e(tag : String, message : String){
+            if(isDebugBuild){
+                Log.e(tag, message)
+            }
+        }
     }
 }
