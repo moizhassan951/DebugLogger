@@ -46,9 +46,9 @@ afterEvaluate {
                 from components.release
 
                 // You can then customize attributes of the publication as shown below.
-                groupId = 'com.moiz'
+                groupId = 'com.moizhassan'
                 artifactId = 'debug_logger'
-                version = '1.0'
+                version = '1.0.0'
             }
 
         }
