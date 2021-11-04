@@ -1,8 +1,8 @@
-package com.moiz.debuglogger
+package com.moizhassan.debuglogger
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.moiz.debuglog.Dlog
+import com.moizhassan.debuglog.Dlog
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

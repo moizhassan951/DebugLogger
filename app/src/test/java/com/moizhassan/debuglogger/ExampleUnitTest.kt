@@ -1,4 +1,4 @@
-package com.moiz.debuglog
+package com.moizhassan.debuglogger
 
 import org.junit.Test
 

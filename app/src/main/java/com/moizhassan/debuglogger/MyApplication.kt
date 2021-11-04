@@ -1,7 +1,7 @@
-package com.moiz.debuglogger
+package com.moizhassan.debuglogger
 
 import android.app.Application
-import com.moiz.debuglog.Dlog
+import com.moizhassan.debuglog.Dlog
 
 class MyApplication : Application() {
 

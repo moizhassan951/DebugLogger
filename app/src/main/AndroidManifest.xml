@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.moiz.debuglogger">
+    package="com.moizhassan.debuglogger">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
-        android:name=".MyApplication"
+        android:name="com.moizhassan.debuglogger.MyApplication"
         android:supportsRtl="true"
         android:theme="@style/Theme.DebugLogger">
         <activity
-            android:name=".MainActivity"
+            android:name="com.moizhassan.debuglogger.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
